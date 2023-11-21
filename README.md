@@ -1,3 +1,3 @@
 # LRCM: Enhancing Adversarial Purification through Latent Representation Compression
-1. run atk_cifar10
-2. run lxt_main
+1. Run atk_cifar10 to create adversarial examples.
+2. Run lxt_main to train and evaluate the LRCM.
